@@ -11,8 +11,8 @@ const introdata = {
         second: "I code cool websites",
         third: "I develop programs",
     },
-    description: "I love coding and hacking for good.",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "I love coding, ethical hacking and cyber security.",
+    your_img_url: "https://images.unsplash.com/photo-1548092372-0d1bd40894a3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
 };
 
 const dataabout = {
