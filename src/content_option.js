@@ -94,19 +94,19 @@ const services = [{
 const dataportfolio = [{
         img: "https://picsum.photos/400/800/?grayscale",
         desctiption: "techblognow.com.",
-        link: "techblognow.com",
+        link: "https://techblognow.com",
     },
    
     {
         img: "https://picsum.photos/400/?grayscale",
         desctiption: "Cute Old English Sheepdog Website oldenglishsheepdog.org",
-        link: "#",
+        link: "https://oldenglishsheepdog.org",
     },
    
     {
         img: "https://picsum.photos/400/300/?grayscale",
         desctiption: "2008 Financial Crisis Simulator. Website https://2008financialcrisis.com/",
-        link: "#",
+        link: "https://2008financialcrisis.com/",
     },
    
 {
